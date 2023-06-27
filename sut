@@ -1,0 +1,23 @@
+* [33mcommit f1aa261e522d03fddef4d3b2a72f91fb479292dd[m[33m ([m[1;36mHEAD -> [m[1;32mnew_variable[m[33m)[m
+[31m|[m Author: Anton Nosik <varschik@ukr.net>
+[31m|[m Date:   Tue Jun 27 21:26:51 2023 +0300
+[31m|[m 
+[31m|[m     New branch
+[31m|[m   
+[31m|[m * [33mcommit 5029a440cc37e5cf778f5b0d8bd3d3bf54951910[m[33m ([m[1;32mmaster[m[33m)[m
+[31m|[m[31m/[m  Author: Anton Nosik <varschik@ukr.net>
+[31m|[m   Date:   Tue Jun 27 21:23:06 2023 +0300
+[31m|[m   
+[31m|[m       Add master str
+[31m|[m 
+* [33mcommit 237ac03282e586b98f92d8fafd53d769da63100e[m
+[32m|[m Author: Anton Nosik <varschik@ukr.net>
+[32m|[m Date:   Tue Jun 27 21:17:24 2023 +0300
+[32m|[m 
+[32m|[m     Second commit
+[32m|[m 
+* [33mcommit c5b76cd95967cd839bb880853c2272c329ce9a88[m
+  Author: Anton Nosik <varschik@ukr.net>
+  Date:   Tue Jun 27 21:15:11 2023 +0300
+  
+      first commit
